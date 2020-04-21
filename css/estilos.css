@@ -3,3 +3,9 @@ body {
     text-align: left;
     font-family: "Arial";
 }
+#cabecera {
+    color: deepskyblue;
+    text-align: center ;
+    background: #3333aa;
+    color: #ffffff;
+}
